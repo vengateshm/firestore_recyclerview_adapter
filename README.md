@@ -107,7 +107,7 @@ class FruitListAdapter(options: FirestoreRecyclerOptions<Fruit>) :
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-**fruit_list_item**
+**fruit_list_item.xml**
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
