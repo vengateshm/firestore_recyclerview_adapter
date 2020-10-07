@@ -6,6 +6,8 @@ This sample app uses firestore recycler view adapter to list the items in Recycl
 Firestore - https://firebase.google.com/docs/firestore  
 Firestore RecyclerView Adapter - https://github.com/firebase/FirebaseUI-Android/blob/master/firestore/README.md
 
+![FirestoreRecyclerAdapters](https://user-images.githubusercontent.com/40466166/95305779-12eb4780-08a4-11eb-964b-2069c9fe2997.png)
+
 **Code snippets** 
 
 **MainActivity.kt** 
