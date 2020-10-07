@@ -1,5 +1,15 @@
 # firestore-recyclerview-adapter
-This sample app uses firestore recycler view adapter to list the items in RecyclerView widget. Data is fetched from firestore database. Make sure you register your app in firebase and add google_services.json file inside app directory.
+This sample app uses the below firestore recycler adapters to list the items in RecyclerView widget
+
+* **FirestoreRecyclerAdapter**
+  * Listens to live changes under a collection(document insert/update/delete in a collection)
+  * Does not support pagination
+  
+* **FirestorePagingAdapter**
+  * Supports pagination
+  * Does not listen to live changes under a collection(document insert/update/delete in a collection)
+
+Data is fetched from firestore database. Make sure you register your app in firebase and add google_services.json file inside app directory.
 
 **References**
 
